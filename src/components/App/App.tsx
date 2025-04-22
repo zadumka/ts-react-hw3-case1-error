@@ -51,7 +51,7 @@ export default function App() {
                     onClose={() => handleSelectMovie(null)}
                 />
             )}
-            <Toaster position=""top-center"" />
+            <Toaster position="top-center" />
         </div>
     );
 }
